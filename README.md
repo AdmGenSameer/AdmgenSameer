@@ -1,19 +1,19 @@
 # 💫 Hi 👋, I'm Sameer Chaudhary
-**A passionate about Cloud and Devops || Web Developer || Pre-Final Year**
+**🎓 Pre-Final Year Student | ☁️ Cloud & DevOps Enthusiast | 💻 Full-Stack Web Developer**
 
-- 🔭 I'm currently working on **A open source project on a universal package manager for all linux distributions**
+- 🔭 I'm currently working on **Building an open-source universal Linux package manager to simplify package handling across distributions.**
 
-- 🌱 I'm currently learning **Righnt now I am learning backend development**
+- 🌱 I'm currently learning **Backend development, cloud infrastructure, and system design.**
 
 - 👯 I'm looking to collaborate on **Open Source Projects**
 
-- 🤝 I'm looking for help with **ArchPkg Helper(Universal Linux Package Manager) , cloud , backend architecture, system design**
+- 🤝 I'm looking for help with **ArchPkg Helper(Universal Linux Package Manager) , Open-source cloud, DevOps, backend, and Linux ecosystem projects.**
 
-- 💬 Ask me about **React, Node js , webdevelopment , cloud ,linux , devops, system design , react native**
+- 💬 Ask me about **React, Node.js, Web Development, Linux, DevOps, React Native, System Design, and Cloud concepts.**
 
 - 📫 How to reach me **sameer00324@gmail.com**
 
-- ⚡ Fun fact **I like astronomy , and I use Arch BTW , also watching movies.**
+- ⚡ Fun fact **I love astronomy 🌌, I use Arch BTW 🐧, I enjoy movies and exploring tech communities 🎬s.**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/geniussameer00324) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-chaudhary-3a341027a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sameer00324@gmail.com) 
