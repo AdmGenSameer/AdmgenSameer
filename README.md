@@ -7,7 +7,7 @@
 
 - 👯 I'm looking to collaborate on **Open Source Projects**
 
-- 🤝 I'm looking for help with **learning DSA , cloud , backend architecture, system design**
+- 🤝 I'm looking for help with **ArchPkg Helper(Universal Linux Package Manager) , cloud , backend architecture, system design**
 
 - 💬 Ask me about **React, Node js , webdevelopment , cloud ,linux , devops, system design , react native**
 
