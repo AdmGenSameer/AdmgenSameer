@@ -28,7 +28,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AdmGenSameer&theme=aura&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Quote
+### ✍️ Words of Wisdom 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
